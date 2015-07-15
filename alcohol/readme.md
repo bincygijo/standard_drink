@@ -1,4 +1,4 @@
-# Server statistics test project  - Laravel, Bootstrap
+# Standard drink calculation test project  - Laravel, Bootstrap
 
 
 ## Installation
